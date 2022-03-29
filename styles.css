@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 30px;
+  text-align: center;
+  background-color: blueviolet;
+  color: #fff;
+  text-decoration: none;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+  width: 50%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+a:hover {
+  text-decoration: underline;
+}
